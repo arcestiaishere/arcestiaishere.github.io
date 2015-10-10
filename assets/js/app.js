@@ -1,6 +1,6 @@
 $(document).ready(function(){
   alert("hello world");
-if(window.location.href=="https://diary.arcestia.my.id/")
+if(window.location.href=="https://me.arcestia.my.id/")
 {
 $("#sidebar").css({width:'100%'});
 $("#btnblog").click(function(){

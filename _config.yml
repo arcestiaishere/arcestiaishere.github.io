@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : https://diary.arcestia.my.id
+BASE_PATH : https://me.arcestia.my.id
 
 
 title : Arcestia
