@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Nostalgia Review Space Impact
-excerpt: "Nostalgia Review Space Impact – Teknologi Maju Untuk Masanya"
+description: Nostalgia Review Space Impact – Teknologi Maju Untuk Masanya
+categories: [Games, Review]
 ---
 
 *This post originally published on [TechInAsia.ID](https://id.techinasia.com/nostalgia-review-space-impact/).*

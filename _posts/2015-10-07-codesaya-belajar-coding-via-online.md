@@ -1,6 +1,8 @@
 ---
+layout: post
 title: CodeSaya: Belajar Coding via Online
-excerpt: "CodeSaya: Belajar Coding via Online secara interaktif."
+description: CodeSaya: Belajar Coding via Online secara interaktif.
+categories: [Web]
 ---
 
 *This post originally published on [Selular.id](http://selular.id/news/startup/2015/10/codesaya-belajar-coding-via-online/).*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lamp Installation on Arch 
+title: Lamp Installation on Arch
 description: Linux, Apache, MySQL/MariaDB, PHP. In short LAMP, a complete Open Source solution for web-developer.
 image: /assets/media/Lamp.jpg
 categories: [linux]
@@ -26,7 +26,7 @@ Now configure apache:
 
 {% highlight ruby %}
 
-$ sudo gedit /etc/httpd/conf/httpd.conf 
+$ sudo gedit /etc/httpd/conf/httpd.conf
 
 #> comment the line .i.e. put a # before it.
 
@@ -57,8 +57,8 @@ $ sudo gedit /etc/httpd/conf/httpd.conf
 
 #> add the following lines at the end of the files
 
-LoadModule php5_module modules/libphp5.so 
-AddHandler php5-script php 
+LoadModule php5_module modules/libphp5.so
+AddHandler php5-script php
 Include conf/extra/php5_module.conf
 
 #> save and exit .

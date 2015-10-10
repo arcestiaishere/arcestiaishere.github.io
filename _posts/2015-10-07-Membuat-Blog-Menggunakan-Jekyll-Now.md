@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Membuat Blog Menggunakan JekyllNow dan Github Pages
-excerpt: "Belajar Membuat Blog Menggunakan JekyllNow dan Github Pages Secara Step-by-Step."
+description: Belajar Membuat Blog Menggunakan JekyllNow dan Github Pages Secara Step-by-Step.
+categories: [Ruby, Web]
 ---
 
 ![JekyllNow](https://blog.arcestia.my.id/img/2015/10/jekyllnow-featured.jpg "Screenshot of JekyllNow")
