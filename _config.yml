@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : https://arcestiaishere.github.io
+BASE_PATH : https://diary.arcestia.my.id
 
 
 title : Arcestia
