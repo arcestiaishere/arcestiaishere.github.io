@@ -17,4 +17,4 @@ Yes, i just design my new blog using Jekyll that hosted using Github Pages.
 ### Are this blog Open Source?
 
 Of course this was Open Source, and this was static web blog that easy to manage.
-any one can push request in [my github](https://github.com/arcestia/arcestia.github.io).
+any one can push request in [my github](https://github.com/arcestiaishere/arcestiaishere.github.io).
