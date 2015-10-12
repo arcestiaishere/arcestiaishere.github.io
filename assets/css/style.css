@@ -84,7 +84,7 @@ footer {
 	padding-top: 8%;
 	height: 100%;
 	background-color:#6049df;
-	background-image: url("/assets/media/cover.png"),url("{{site.background-cover}}");	
+	background-image: url("/assets/media/cover.png"),url("/background.jpg");	
 	background-size: 100% 100%;
 	color: #fff;
 	z-index: 5;
