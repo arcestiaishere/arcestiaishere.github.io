@@ -2,6 +2,7 @@
 layout: post
 title: New Blog has been Launched
 description: My New Blog has been Launched since October 7,2015.
+date: 2015-10-07
 tagline:
 categories: [News]
 ---
