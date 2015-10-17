@@ -22,4 +22,4 @@ yang jelas aku tertarik padanya..... hehehehe **aww aku ngaku sekarang**
 
 #### Apakah dia punya perasaan yang sama?
 
-Aku berpikir dia juga dapat memiliki perasaan yang sama. 'pengennya ya'
+Aku berpikir dia juga dapat memiliki perasaan yang sama. >pengennya ya
