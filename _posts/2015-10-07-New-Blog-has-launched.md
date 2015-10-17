@@ -4,7 +4,6 @@ title: New Blog has been Launched
 description: My New Blog has been Launched since October 7,2015.
 tagline:
 categories: [News]
-tags: [web, blog, design, diary]
 ---
 ### What Happen with older blog?
 
