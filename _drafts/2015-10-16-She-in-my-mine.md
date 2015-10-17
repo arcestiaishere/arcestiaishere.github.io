@@ -20,3 +20,5 @@ tapi dia betul-betul sangat membuatku berdebar. **cieelah baru gitu aja lebay lu
 yang jelas aku tertarik padanya..... hehehehe **aww aku ngaku sekarang**
 
 #### Apakah dia punya perasaan yang sama?
+
+Aku berpikir dia juga dapat memiliki perasaan yang sama. 'pengennya ya'
