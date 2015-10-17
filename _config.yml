@@ -1,32 +1,41 @@
-# This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:title
-# https://help.github.com/articles/migrating-your-pages-site-from-maruku
-markdown: kramdown
-
-highlighter: pygments
-paginate: 20 # pagination based on number of posts
-paginate_path: "page/:num"
-
-# These paths are to the main pages Jekyll-Bootstrap ships with.
-# Some JB helpers refer to these paths; change them here if needed.
+# Permalinks
 #
-categories_path : categories.html
-tags_path : tags.html
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+paginate_path:       page/:num
 
-BASE_PATH : https://me.arcestia.my.id
+# Setup
+title:               arcestia
+tagline:             Social Media Addict, Writer, open source developer
+url:                 http://me.arcestia.my.id
+paginate:            10
+baseurl:             ""
+google_verify:
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-title : Arcestia
-gravatar_id: 92ce146fe7bba637cb0629582e2ba91b
-
+# About/contact
 author:
-  name: Laurensius Jeffrey
-  role: Web developer and Part-time Writer
-  email: vrusolik@gmail.com
-  github: arcestia
-  twitter: LizSnowy
-  facebook: Arcestia
-  googleplus: +LaurensiusJeffreyChandra
-  bio: "Social Media Addict, Writer, open source developer. "
-  arcestia: https://raw.githubusercontent.com/arcestiaishere/arcestiaishere.github.io/master/arcestialogo.png
+  name:              Laurensius Jeffrey Chandra
+  url:               https://me.arcestia.my.id
+  email:             vrusolik@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/arcestiaishere/arcestiaishere.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  About: /about
+  Categories: /categories
+
+# Plugin
+gems:
+  - jekyll-sitemap

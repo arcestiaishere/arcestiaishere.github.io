@@ -1,0 +1,39 @@
+// Masthead
+//
+// Barry Clark
+// https://github.com/barryclark/jekyll-now/style.scss
+
+.masthead {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+
+.masthead-title, nav {
+  float: left;
+  margin: 0;
+  color: #505050;
+
+  a {
+    color: #505050;
+  }
+}
+
+nav {
+  float: right;
+}
+
+// Clearfix
+//
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}

@@ -1,0 +1,30 @@
+// Messages
+//
+// Show alert messages to users. You may add it to single elements like a `<p>`,
+// or to a parent if there are multiple elements to show.
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
+.box {
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-right: 6px;
+}
+
+.notice {
+  background-color: #259b24;
+}
+
+.warning {
+	background-color: #e51c23;
+}
+
+.small {
+	font-size: 16px;
+}

@@ -1,1 +1,26 @@
-{% include default.html %}
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <div class="container content">
+        <header class="masthead clearfix">
+            <h3 class="masthead-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h3>
+            <nav>
+              {% for page in site.pages_list %}
+                &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
+              {% endfor %}
+            </nav>
+        </header>
+        <main>
+          {{ content }}
+        </main>
+      </div>
+      <footer class="footer small">
+        Crafted with <i class ="fa fa-heart fa-fw" style="color:#e91e63"></i> by <a href="{{ site.baseurl }}/">Arcestia</a> (<a href="https://twitter.com/LizSnowy">@LizSnowy</a>).<br>
+        &lt;/&gt; available on <a href="https://github.com/arcestiaishere/arcestiaishere.github.io">GitHub</a>.
+      </footer>
+    </div>
+    {% include math.html %}
+  </body>
+</html>
