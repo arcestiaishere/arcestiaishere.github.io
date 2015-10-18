@@ -3,7 +3,7 @@ layout: post
 title: She in my mine
 description: She Always in my mine, but why i thinking her along time.
 date: 2015-10-18
-categories: [diary]
+categories: diary
 ---
 *Sorry in this writing i will write in Indonesian.*
 
