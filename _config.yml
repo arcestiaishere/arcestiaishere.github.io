@@ -37,6 +37,12 @@ pages_list:
   Facebook: https://facebook.com/Arcestia
   Twitter: https://twitter.com/LizSnowy
 
+# Disqus
+disqus:
+  shortname: 'arcestia'
+  count: 5
+  api_key: "gy7BKcBNNp58VBQMCbi7Fdm0o3JSSbcvu0m4LBUWmRrhkrJaQrVxNQaNj2sC4dg1"
+
 # Plugin
 gems:
   - jekyll-sitemap
