@@ -12,6 +12,9 @@ layout: default
   </div>
   {{ content }}
 </article>
+{% unless page.comments == false %}
+  {% include comments.html %}
+{% endunless %}
 {% for cat in page.categories %}
 {% if site.categories.[cat].size > 1 %}
 <aside class="related">
@@ -29,5 +32,3 @@ layout: default
 </aside>
 {% endif %}
 {% endfor %}
-
-{% include comments.html %}
