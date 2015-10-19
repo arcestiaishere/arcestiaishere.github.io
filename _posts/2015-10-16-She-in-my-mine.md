@@ -9,14 +9,14 @@ categories: diary
 
 ## Siapakah Dia?
 
-Seseorang yang selalu muncul dalam pikiranku siang dan malam.
-Ia Selalu menggangguku Dengan Wajahnya yang Imut, dan tak tahu kenapa aku selalu senang melihatnya.
+Seseorang yang selalu muncul dalam pikiranku siang dan malam. <br>
+Ia Selalu menggangguku Dengan Wajahnya yang Imut, dan tak tahu kenapa aku selalu senang melihatnya. <br>
 Dia memang nyata dan saat aku melihat dia dari kejauhan hatiku selalu berdetak dengan cepat.
 
 ### Apakah ini namanya Cinta?
 
-Aku tak tahu pasti tentang apa yang aku rasakan ini.
-tapi dia betul-betul sangat membuatku berdebar. `cieelah baru gitu aja lebay lu`
+Aku tak tahu pasti tentang apa yang aku rasakan ini. <br>
+tapi dia betul-betul sangat membuatku berdebar. `cieelah baru gitu aja lebay lu` <br>
 yang jelas aku tertarik padanya..... hehehehe `aww aku ngaku sekarang`
 
 ### Apakah dia punya perasaan yang sama?
