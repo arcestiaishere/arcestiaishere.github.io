@@ -7,6 +7,8 @@ categories: diary
 ---
 *ini post apaan sih? kok tiba2 ada di blog gw?*
 
-#Siapa dia?
+# Adela Desiana?
 
-tak tahulah gw nulis blog dulu gak gini" amat ini udah over my capacity `cieelah over kapasitas segala kayak apaan aja`
+Dia adek kelas gw hehehe</br>
+orangnya kayak gimana?
+![noh](/img/2015/Oct/adela.jpg)
