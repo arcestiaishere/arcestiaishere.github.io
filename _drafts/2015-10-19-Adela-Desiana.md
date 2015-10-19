@@ -11,4 +11,4 @@ categories: diary
 
 Dia adek kelas gw hehehe</br>
 orangnya kayak gimana?
-![noh](/img/2015/Oct/adela.jpg)
+![minipic](/img/2015/Oct/adela.jpg)
