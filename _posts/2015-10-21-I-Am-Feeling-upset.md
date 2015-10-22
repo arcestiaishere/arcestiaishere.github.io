@@ -11,7 +11,7 @@ I Finally know that she was like someone else. <br>
 I can do nothing, i was nobody for her. <br>
 I just can stay away from her, hope she happy with her boy. <br>
 I realize she was not for me. <br>
-I try to stand back, but maybe i will hard to forgetting you. <br>
+I try to stand back, but maybe i will hard to forgetting you. <br><br>
 
 Check this song, Vietnamese Song that take my heart on it.
 
@@ -19,35 +19,35 @@ Check this song, Vietnamese Song that take my heart on it.
 
 English Translation
 
-There are times I wish my heart was small
-So my longing for you disappears
-There are moments I wish time won't flow
+There are times I wish my heart was small <br>
+So my longing for you disappears <br>
+There are moments I wish time won't flow <br>
 So your scent doesnt fade away
 
-Bridge:
-Sing to free all worries you've had
-Say it loud and don't regret
-I love you~
+Bridge: <br>
+Sing to free all worries you've had <br>
+Say it loud and don't regret <br>
+I love you~ <br>
 I will tell you all that's been on my mind
 
-CHORUS:
-The sun fell into darkness
-Sank in sadness
-There's so much in my mint you don't get
-Is it the sunset pitch black
-Or it's my heart
+CHORUS: <br>
+The sun fell into darkness <br>
+Sank in sadness <br>
+There's so much in my mint you don't get <br>
+Is it the sunset pitch black <br>
+Or it's my heart <br>
 The hope all burned down to ash
 
-Verse2:
-Simple melody will ease the pain
-Still the mind tries to hold onto you
-Piece of memories will always stay
+Verse2: <br>
+Simple melody will ease the pain <br>
+Still the mind tries to hold onto you <br>
+Piece of memories will always stay <br>
 i am frozen since you're away
 
-BRIDGE
-CHORUS
-I keep all burning feelings in the heart shaped box
-So i watch you from afar
-One day you fall into some other warm safe arms
-I will wait for you inside your dream
+BRIDGE <br>
+CHORUS <br>
+I keep all burning feelings in the heart shaped box <br>
+So i watch you from afar <br>
+One day you fall into some other warm safe arms <br>
+I will wait for you inside your dream <br>
 I will tell you all that's been on my mind...
