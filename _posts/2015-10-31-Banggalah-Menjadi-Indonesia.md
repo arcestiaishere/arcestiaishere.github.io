@@ -14,7 +14,6 @@ Sekarang ini Indonesia sedang dilanda krisis Kepercayaan, Sosial, dan itu menjad
 Sampai kapan bangsa ini mengalami krisis secara sosial? <br>
 Oleh karena itu Ayolah kita Bangkit Bersama dengan jiwa pemuda-pemudi dikala itu bersumpah bawa:
 
-```
 Pertama :
 KAMI POETRA DAN POETRI INDONESIA MENGAKOE BERTOEMPAH DARAH JANG SATOE, TANAH AIR INDONESIA
 
@@ -23,7 +22,6 @@ KAMI POETRA DAN POETRI INDONESIA, MENGAKOE BERBANGSA JANG SATOE, BANGSA INDONESI
 
 Ketiga :
 KAMI POETRA DAN POETRI INDONESIA MENGJOENJOENG BAHASA PERSATOEAN, BAHASA INDONESIA
-```
 
 Ayo Kawan marilah kita bertenggang rasa terhadap sesama kita, karena Kita Indonesia.
 
