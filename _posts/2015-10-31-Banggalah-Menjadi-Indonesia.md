@@ -13,6 +13,7 @@ Beranjak dari situ cobalah kita buka lembaran baru untuk kembali memiliki jiwa p
 Sekarang ini Indonesia sedang dilanda krisis Kepercayaan, Sosial, dan itu menjadikan kita menjadi terpecah-pecah. <br>
 Sampai kapan bangsa ini mengalami krisis secara sosial? <br>
 Oleh karena itu Ayolah kita Bangkit Bersama dengan jiwa pemuda-pemudi dikala itu bersumpah bawa:
+
 ```
 Pertama :
 - KAMI POETRA DAN POETRI INDONESIA MENGAKOE BERTOEMPAH DARAH JANG SATOE, TANAH AIR INDONESIA
@@ -23,6 +24,7 @@ Kedua :
 Ketiga :
 - KAMI POETRA DAN POETRI INDONESIA MENGJOENJOENG BAHASA PERSATOEAN, BAHASA INDONESIA
 ```
+
 Ayo Kawan marilah kita bertenggang rasa terhadap sesama kita, karena Kita Indonesia.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TIKbhfaBrvs" frameborder="0" allowfullscreen></iframe>
