@@ -8,7 +8,7 @@ paginate_path:       page/:num
 # Setup
 title:               arcestia
 tagline:             Social Media Addict, Writer, open source developer
-url:                 http://me.arcestia.my.id
+url:                 http://me.arcestia.id
 paginate:            10
 baseurl:             ""
 google_verify:
@@ -23,7 +23,7 @@ sass:
 # About/contact
 author:
   name:              Laurensius Jeffrey Chandra
-  url:               https://me.arcestia.my.id
+  url:               http://me.arcestia.id
   email:             vrusolik@gmail.com
 
 # Custom vars

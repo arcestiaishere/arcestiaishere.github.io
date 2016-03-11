@@ -15,7 +15,7 @@ okay fuck you leh oops bad word coming `hehehehe`
 
 ## who is the girl?
 
-damn, check my last post lor [check this](https://me.arcestia.my.id/diary/2015/10/20/Adela-Desiana/) shit `okay i check it.`
+damn, check my last post lor [check this](http://me.arcestia.id/diary/2015/10/20/Adela-Desiana/) shit `okay i check it.`
 
 ## When you will propose her?
 
