@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Kami Adalah Indonesia
-description: Kami Adalah Indonesia dan Kami Bersatu Bersama Demi Negeri Tercinta, Merdeka!!!
-date: 2015-10-31
-categories: Indonesia
+subtitle: Kami Adalah Indonesia dan Kami Bersatu Bersama Demi Negeri Tercinta, Merdeka!!!
 ---
 # Kami Adalah Indonesia
 

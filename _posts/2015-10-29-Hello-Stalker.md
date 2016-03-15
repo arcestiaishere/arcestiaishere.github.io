@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Hello Stalker
-description: Hello Stalker
-date: 2015-10-29
-categories: diary
 ---
 *Thanks for Stalking at me. you're my great admirer.*
 
