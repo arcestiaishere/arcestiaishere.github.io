@@ -1,9 +1,7 @@
 ---
 layout: post
 title: i feel disappointed
-description: i really disappointed with her
-date: 2015-10-21
-categories: diary
+subtitle: i really disappointed with her
 ---
 ***Warning, maybe some bad word will coming in this post***
 
@@ -11,7 +9,7 @@ I Finally know that she was like someone else. <br>
 I can do nothing, i was nobody for her. <br>
 I just can stay away from her, hope she happy with her boy. <br>
 I realize she was not for me. <br>
-I try to stand back, but maybe i will hard to forgetting you. <br><br>
+I try to stand back, but maybe i will hard to forgetting you. <br>
 
 Check this song, Vietnamese Song that take my heart on it.
 

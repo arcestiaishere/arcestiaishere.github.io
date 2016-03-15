@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: http://me.arcestia.id/sitemap.xml
-Disallow: http://me.arcestia.id/page/*
