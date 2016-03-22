@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Story] Awal Cerita aku jatuh cinta dengan komputer.
+title: Awal Cerita aku jatuh cinta dengan komputer.
 subtitle: Part 1 of my life story
 ---
 Halo guys, kali ini gw coba ceritakan awalnya gw jatuh cinta nih hahaha...
