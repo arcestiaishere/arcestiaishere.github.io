@@ -5,6 +5,7 @@ subtitle: My Curriculum Vitae
 ---
 
 # Curriculum Vitae
+
 ## Personal Information
 
 | Name    | Laurensius Jeffrey Chandra     |
