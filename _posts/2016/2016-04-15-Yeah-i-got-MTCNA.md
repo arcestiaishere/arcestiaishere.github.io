@@ -15,7 +15,7 @@ subtitle: The Beginning my Story in Networking.
 - Mr. Gusjan Friedrich (my primary school teacher)
 - Mr. Gunawan Albert (First person make me know MikroTik)
 - Pak Indra Purnama (Kita semua bisa berkat dia... yeah)
-- Michael Takeuchi (yang ini gw gak yakin nama aslinya Takeuchi but makasih kirimin modul MTCNA berguna banget)
+- Michael Takeuchi (Thanks buat modul MTCNAnya sumpah itu gak ngebantu)
 
 Okay, Thanks for read this messages <br>
 April 15th, 2016 <br>
