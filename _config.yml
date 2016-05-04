@@ -71,7 +71,6 @@ disqus: "arcestia"
 
 # Output options (more information on Jekyll's site)
 timezone: "Asia/Jakarta"
-markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
